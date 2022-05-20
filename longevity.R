@@ -2,8 +2,6 @@
 ### R code for: Longevity of the solitary silvery mole-rat Heliophobius argenteocinereus and its implications for the assumed link between sociality and longevity in African mole-rats ###
 
 
-setwd("C:/R_folder/longevity")
-
 library(rethinking)
 library(phytools)
 library(ape)
