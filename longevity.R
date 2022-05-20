@@ -55,7 +55,7 @@ d <- list(
 
 ## maximum recorded longevity (ML_rc)
 ## we'll model the data in the form of structural causal model (SCM)
-## that is, each variable will be modeled as a function of those variables with a direct arrow pointing to them, as implied by our DAG (see Supplementaray Figure 1)
+## that is, each variable will be modeled as a function of those variables with a direct arrow pointing to them, as implied by our DAG (see Supplementaray Figure 2)
 ## this way, we'll explicitly model the entire causal system, as represented in our DAG
 ## with SCM, the data are modeled in a joint posterior distribution, from which we'll then simulate each intervention
 ## we'll first estimate the total effect of sociality
