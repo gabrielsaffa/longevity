@@ -1,0 +1,10 @@
+species,social_system,sample_size,body_mass,ML_rc,ML_exp,ML_rs,sample_size_rep
+Heterocephalus_glaber,Social,Large,45,37,8.7,422,3299
+Fukomys_mechowii,Social,Medium,378,26,12.1,215,224
+Fukomys_anselli,Social,Medium,90,21.5,9.71,221,339
+Fukomys_damarensis,Social,Large,180,20,10.8,185,1000
+Fukomys_darlingi,Social,Medium,110,18,10.02,180,110
+Cryptomys_hottentotus,Social,Small,90,11.75,9.71,121,13
+Heliophobius_argenteocinereus,Solitary,Medium,200,14.6,10.97,133,101
+Georychus_capensis,Solitary,Small,181,12.2,10.81,113,41
+Bathyergus_suillus,Solitary,Small,780,6,13.52,44,16
